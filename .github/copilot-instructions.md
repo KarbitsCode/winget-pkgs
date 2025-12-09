@@ -59,7 +59,7 @@ When Copilot needs to compare or validate manifest conventions (for example, `Re
 
 ## Allowed Searches Outside the Manifests Directory
 
-Copilot is allowed to search in **documentation folders** to understand schema rules, authoring guidelines, and repository conventions. These include, but not limited to:
+Copilot is allowed to search in **documentation folders** to understand schema rules, authoring guidelines, and repository conventions. These include, but are not limited to:
 
 - `doc/`
 - `schemas/`
