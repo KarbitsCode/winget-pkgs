@@ -84,18 +84,18 @@ When reviewing a PR:
 
   For:
   ```
-  manifests\m\Microsoft\WSL\2.6.2\
+  manifests/m/Microsoft/WSL/2.6.2/
   ```
   Only search within:
   ```
-  manifests\m\Microsoft\WSL\
-  manifests\m\Microsoft\
+  manifests/m/Microsoft/WSL/
+  manifests/m/Microsoft/
   ```
 
 - DO NOT search:
   ```
-  manifests\m\*
-  manifests\*
+  manifests/m/*
+  manifests/*
   ```
   or the entire repo for matching fields
 
