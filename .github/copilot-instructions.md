@@ -100,8 +100,8 @@ When reviewing a PR:
   or the entire repo for matching fields
 
 - If broader repo context seems needed:
-   - **Skip the global search**
-   - Continue the review using only local context
+  - **Skip the global search**
+  - Continue the review using only local context
 
 ---
 
