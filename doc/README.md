@@ -57,7 +57,7 @@ To submit a package to this repository, you should follow these steps:
 5. Respond to any feedback in your PR.
 
 > [!Note]
-> Please check the package manifest you intend to submit does not already exist in the repository and there are no open PRs for it in order to avoid duplicates.
+> Please check that the package manifest you intend to submit does not already exist in the repository and there are no open PRs for it in order to avoid duplicates.
 
 ## Submit your PR
 
