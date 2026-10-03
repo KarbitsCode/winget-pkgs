@@ -3,7 +3,6 @@
 
 PackageIdentifier: Easeware.DriverEasy
 PackageVersion: 7.2.1.6390
-InstallerLocale: en-US
 InstallerType: inno
 Scope: machine
 InstallModes:
